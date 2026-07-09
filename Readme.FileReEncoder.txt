@@ -5,7 +5,7 @@ Small console utility for checking and converting text file encodings recursivel
 from the current working directory.
 
 Public repository:
-<REPOSITORY_URL_HERE>
+https://github.com/Relvl/FileReEncoder
 
 
 Usage
