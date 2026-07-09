@@ -1,0 +1,6 @@
+﻿<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Publish" type="DotNetFolderPublish" factoryName="Publish to folder">
+    <riderPublish configuration="Release" platform="Any CPU" produce_single_file="true" target_folder="$PROJECT_DIR$/bin/Release/net10.0/publish" target_framework="net10.0" uuid_high="-6866459865418542699" uuid_low="-5821825853216711707" />
+    <method v="2" />
+  </configuration>
+</component>
